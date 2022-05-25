@@ -1,4 +1,19 @@
 # Visual Studio Code
+## Plugins
+- Code Runner
+- Color Picker
+- Dart
+- Docker
+- Flutter
+- Flutter Tree
+- Go
+- Kubernetes
+- Monokai Pro
+- Remote - Containers
+- Test Adapter Converter
+- Test Explorer UI
+- YAML
+
 ## change font
 https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
