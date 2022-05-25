@@ -9,6 +9,7 @@
 - Go
 - Kubernetes
 - Monokai Pro
+- Icons
 - Remote - Containers
 - Test Adapter Converter
 - Test Explorer UI
