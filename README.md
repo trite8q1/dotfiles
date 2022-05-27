@@ -14,6 +14,7 @@
 - Test Adapter Converter
 - Test Explorer UI
 - YAML
+- Tabnine
 
 ## change font
 https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
