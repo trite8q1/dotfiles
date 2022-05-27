@@ -17,6 +17,9 @@
 - Tabnine
 
 ## change font
+Strg + Shift + P
+*Open Settings (JSON)*
+Unter *"editor.fontSize"* *"editor.fontFamily": "Source Code Pro"* einfuegen.
 https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
 # Installation
