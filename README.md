@@ -15,6 +15,7 @@
 - Test Explorer UI
 - YAML
 - Tabnine
+- GitHub Copilot
 
 ## change font
 - Strg + Shift + P
