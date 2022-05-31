@@ -16,6 +16,7 @@
 - YAML
 - Tabnine
 - GitHub Copilot
+- Error Lens
 
 ## change font
 - Strg + Shift + P
