@@ -21,6 +21,7 @@
 - SQLite Viewer
 - vscode-proto3
 - gotemplate-syntax
+- Makefile Tools
 
 ## change font
 - Strg + Shift + P
