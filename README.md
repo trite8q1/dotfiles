@@ -17,6 +17,7 @@
 - Tabnine
 - GitHub Copilot
 - Error Lens
+- Thunder Client
 
 ## change font
 - Strg + Shift + P
