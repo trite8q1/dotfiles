@@ -18,6 +18,7 @@
 - GitHub Copilot
 - Error Lens
 - Thunder Client
+- SQLite Viewer
 
 ## change font
 - Strg + Shift + P
