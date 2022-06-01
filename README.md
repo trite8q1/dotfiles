@@ -20,6 +20,7 @@
 - Thunder Client
 - SQLite Viewer
 - vscode-proto3
+- gotemplate-syntax
 
 ## change font
 - Strg + Shift + P
