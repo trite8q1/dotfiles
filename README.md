@@ -19,6 +19,7 @@
 - Error Lens
 - Thunder Client
 - SQLite Viewer
+- vscode-proto3
 
 ## change font
 - Strg + Shift + P
