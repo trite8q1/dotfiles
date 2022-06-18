@@ -31,6 +31,7 @@
 
 # Other tools
 - database client: beekeeper studio
+- useful link for auto formating: https://www.codementor.io/@myogeshchavan97/how-to-automatically-format-code-in-visual-studio-code-using-prettier-1nebhfbxak
 
 # Installation
 
