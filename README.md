@@ -70,6 +70,10 @@
 
 Download iterm: https://iterm2.com/downloads.html
 
+## Tools
+- brew
+- jq (json prettier in cli)
+
 ## oh-my-zsh
 Download oh-my-zsh: https://ohmyz.sh/#install
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
