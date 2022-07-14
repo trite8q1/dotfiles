@@ -21,12 +21,12 @@
 - SelfControl
 - toggl (TimeTracking)
 - 1Password
-- (Antivirenprogramm: CleanMyMac X)
 - AppCleaner
 - Grammarly
 - X.ai
-- (Bear)
 - MindNode
+- (Antivirenprogramm: CleanMyMac X)
+- (Bear)
 
 ## Visual Studio Code
 ### Plugins
