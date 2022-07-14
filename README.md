@@ -84,7 +84,7 @@ Download iterm: https://iterm2.com/downloads.html
 
 ## Tools
 - brew
-- jq (json prettier in cli) | useage: `curl localhost:8080/todos | jq`
+- jq (json prettier in cli); usage: `curl localhost:8080/todos | jq`
 
 ## oh-my-zsh
 Download oh-my-zsh: https://ohmyz.sh/#install
