@@ -37,7 +37,7 @@
 #macos dock layout
 
 <img width="773" alt="Bildschirmfoto 2022-06-29 um 09 08 59" src="https://user-images.githubusercontent.com/60318513/176374079-e0f8c3e2-ebd2-489c-8286-44a34dd90cd5.png">
-
+======
 
 # iterm
 
@@ -71,7 +71,7 @@ Download theme: https://draculatheme.com/iterm
 - iTerm2 > Preferences > Profiles > Text
 - Select Font
 - Search for "Source Code Pro for [...]"
-
+======
 
 
 
