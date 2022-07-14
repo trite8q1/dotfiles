@@ -60,6 +60,17 @@
 - Unter *"editor.fontSize"* *"editor.fontFamily": "Source Code Pro"* einfuegen.
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
+### Troubleshooting
+1. in vscode
+![Screen Shot 2022-07-14 at 11 53 42 PM](https://user-images.githubusercontent.com/60318513/179097728-d343f70f-8aea-40eb-b225-00a084d7f348.png)
+issue explained:
+1. Your ascii colours are different between your installations of iTerm and VSC, so change those in your VSC or iTerm settings if you want the colours to be the same.
+2. Your VSC doesn’t have a PowerLine-capable font installed. I recommend you switch your VSC terminal to the same font as your iTerm if you want it to just work.
+fix:
+- reinstall Source Code Pro font
+- Go into VS Code’s Terminal settings, and somewhere in there, there should be a text field called “Terminal Font Family” or something. Change it to the same font family you use in iTerm.
+
+
 ## IntelliJ
 ### Plugins
 - **Settings Sync**
