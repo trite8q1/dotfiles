@@ -15,6 +15,18 @@
 - git
 - Vysor
 - Zoom
+- Notion
+- GoodNotes
+- Magnet
+- SelfControl
+- toggl (TimeTracking)
+- 1Password
+- (Antivirenprogramm: CleanMyMac X)
+- AppCleaner
+- Grammarly
+- X.ai
+- (Bear)
+- MindNode
 
 ## Visual Studio Code
 ### Plugins
