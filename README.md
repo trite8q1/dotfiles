@@ -24,11 +24,26 @@
 - gotemplate-syntax
 - Makefile Tools
 
-## change font
+### change font
 - Strg + Shift + P
 - *Open Settings (JSON)*
 - Unter *"editor.fontSize"* *"editor.fontFamily": "Source Code Pro"* einfuegen.
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
+
+## IntelliJ
+### Plugins
+- **Settings Sync**
+- Docker
+- GitHub Copilot
+- Kotlin
+- Monokai Pro Theme
+- Protocol Buffers
+- Gradle
+- Maven
+- YAML
+- Markdown
+- Git
+
 
 # Other tools
 - database client: beekeeper studio
