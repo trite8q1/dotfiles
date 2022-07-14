@@ -1,5 +1,6 @@
 # Tools / Configuration
 ## Apps installieren
+- brew
 - Xcode
 - DevCleaner
 - IntelliJ
