@@ -34,11 +34,6 @@
 - database client: beekeeper studio
 - useful link for auto formating: https://www.codementor.io/@myogeshchavan97/how-to-automatically-format-code-in-visual-studio-code-using-prettier-1nebhfbxak
 
-#macos dock layout
-
-<img width="773" alt="Bildschirmfoto 2022-06-29 um 09 08 59" src="https://user-images.githubusercontent.com/60318513/176374079-e0f8c3e2-ebd2-489c-8286-44a34dd90cd5.png">
-======
-
 # iterm
 
 Download iterm: https://iterm2.com/downloads.html
