@@ -1,5 +1,6 @@
-# Visual Studio Code
-## Plugins
+# Tools / Configuration
+## Visual Studio Code
+### Plugins
 - Code Runner
 - Color Picker
 - Dart
@@ -38,27 +39,24 @@
 <img width="773" alt="Bildschirmfoto 2022-06-29 um 09 08 59" src="https://user-images.githubusercontent.com/60318513/176374079-e0f8c3e2-ebd2-489c-8286-44a34dd90cd5.png">
 
 
-# Installation
+# iterm
 
-### iterm
 Download iterm: https://iterm2.com/downloads.html
 
-### oh-my-zsh
+## oh-my-zsh
 Download oh-my-zsh: https://ohmyz.sh/#install
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-### Dracula iterm theme
+## Dracula iterm theme
 Download theme: https://draculatheme.com/iterm
 
-### install fonts
+## install fonts
 - clone the repo: git clone https://github.com/powerline/fonts.git --depth=1
 - cd fonts
 - ./install.sh
 
 
-# Configuration
-
-
+## Configuration
 ### zsh
 - import .zshrc
 
