@@ -1,4 +1,21 @@
 # Tools / Configuration
+## Apps installieren
+- Xcode
+- DevCleaner
+- IntelliJ
+- iterm
+- Discord
+- Slack
+- Spotify
+- Docker
+- Postman
+- Adblock (Safari Extension)
+- JSONPeep (Safari Extension)
+- Chrome
+- git
+- Vysor
+- Zoom
+
 ## Visual Studio Code
 ### Plugins
 - Code Runner
