@@ -81,7 +81,12 @@ fix:
 - GitHub Copilot
 - Atom Material Icons
 - Monokai Pro Theme
-- Protocol Buffers  
+- Protocol Buffers
+
+### Configuration
+![Screen Shot 2022-07-15 at 12 53 03 PM](https://user-images.githubusercontent.com/60318513/179209725-55d808be-b58f-426d-83fa-cf21ba23677d.png)
+![Screen Shot 2022-07-15 at 12 53 20 PM](https://user-images.githubusercontent.com/60318513/179209733-df282cef-cb28-4db6-bf75-c934c5c17977.png)
+
 
 
 # Other tools
