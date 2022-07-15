@@ -42,6 +42,7 @@
 - Flutter
 - Flutter Tree
 - Go
+- gopls
 - Kubernetes
 - Monokai Pro
 - Icons
