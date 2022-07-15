@@ -1,0 +1,9 @@
+{
+    "sync.autoDownload": true,
+    "sync.gist": "96f9ad3e3bef9cf602c80225cb4a38c9",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "SourceCodePro-Bold",
+    "workbench.iconTheme": "material-icon-theme",
+}
