@@ -23,6 +23,7 @@
 - Uninstaller sensei
 - GoodNotes
 - Magnet
+- BetterTouchTool
 - SelfControl
 - toggl (TimeTracking)
 - Password manager
