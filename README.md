@@ -17,10 +17,11 @@
 - git
 - Vysor
 - Zoom
-- Notion
 - Google Drive
 - Google Calendar
 - Uninstaller sensei
+- Notion
+- Anki
 - GoodNotes
 - Magnet
 - BetterTouchTool
