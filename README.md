@@ -18,6 +18,8 @@
 - Vysor
 - Zoom
 - Notion
+- Docs Pro for Google Drive
+- GCCalendar for Google Calendar
 - GoodNotes
 - Magnet
 - SelfControl
