@@ -18,7 +18,8 @@
 - Vysor
 - Zoom
 - Notion
-- Docs Pro for Google Drive
+- Google Drive
+- Uninstaller sensei
 - GCCalendar for Google Calendar
 - GoodNotes
 - Magnet
