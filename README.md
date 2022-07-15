@@ -79,7 +79,7 @@ fix:
 - **Settings Sync**
 - Docker
 - GitHub Copilot
-- Kotlin
+- Atom Material Icons
 - Monokai Pro Theme
 - Protocol Buffers
 - Gradle
