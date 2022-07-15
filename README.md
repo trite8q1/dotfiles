@@ -112,7 +112,7 @@ Download theme: https://draculatheme.com/iterm
 
 ## Configuration
 ### zsh
-- import .zshrc
+- import .zshrc from this repository
 
 ### theme
 #### import Dracula theme to your profile
