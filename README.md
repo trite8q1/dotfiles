@@ -19,8 +19,8 @@
 - Zoom
 - Notion
 - Google Drive
+- Google Calendar
 - Uninstaller sensei
-- GCCalendar for Google Calendar
 - GoodNotes
 - Magnet
 - SelfControl
