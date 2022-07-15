@@ -64,7 +64,7 @@
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
 ### Configure Sourcetree
-- change project dir: in Preferences < Project folder to: `/Users/{username}/dev
+- change project dir: in Preferences < General < Project folder to: `/Users/{username}/dev`
 
 ### Troubleshooting
 ![Screen Shot 2022-07-14 at 11 53 42 PM](https://user-images.githubusercontent.com/60318513/179097728-d343f70f-8aea-40eb-b225-00a084d7f348.png)
