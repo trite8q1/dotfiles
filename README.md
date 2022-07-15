@@ -2,6 +2,7 @@
 ## Apps installieren
 - brew
 - Xcode
+- Visual Studio Code
 - DevCleaner
 - IntelliJ
 - iterm
