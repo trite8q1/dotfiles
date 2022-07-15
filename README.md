@@ -81,12 +81,7 @@ fix:
 - GitHub Copilot
 - Atom Material Icons
 - Monokai Pro Theme
-- Protocol Buffers
-- Gradle
-- Maven
-- YAML
-- Markdown
-- Git
+- Protocol Buffers  
 
 
 # Other tools
