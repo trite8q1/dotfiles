@@ -21,10 +21,8 @@
 - Magnet
 - SelfControl
 - toggl (TimeTracking)
-- 1Password
-- AppCleaner
+- Password manager
 - Grammarly
-- X.ai
 - MindNode
 - (Antivirenprogramm: CleanMyMac X)
 - (Bear)
