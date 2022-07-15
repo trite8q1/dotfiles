@@ -56,6 +56,7 @@
 ### change font
 - Strg + Shift + P
 - *Open Settings (JSON)*
+- tutotrial: https://codingshower.com/using-source-code-pro-font-in-vs-code-on-macos/
 - Unter *"editor.fontSize"* *"editor.fontFamily": "Source Code Pro"* einfuegen.
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
