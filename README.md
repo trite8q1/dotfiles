@@ -25,6 +25,7 @@
 - GoodNotes
 - Magnet
 - BetterTouchTool
+- MacMouseFix (fuer zoomen auf Internetseiten etc)
 - SelfControl
 - toggl (TimeTracking)
 - Password manager
