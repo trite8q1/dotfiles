@@ -26,12 +26,14 @@
 - Magnet
 - BetterTouchTool
 - MacMouseFix (fuer zoomen auf Internetseiten etc)
+- Camo (fuer Ipad in meetings als webcam.)
+
 - SelfControl
 - toggl (TimeTracking)
 - Password manager
 - Grammarly
 - MindNode
-- (Antivirenprogramm: CleanMyMac X)
+- Antivierenprogramm: bitdefender
 - (Bear)
 
 ## Visual Studio Code
