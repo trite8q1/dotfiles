@@ -50,6 +50,7 @@ let $FZF_DEFAULT_COMMAND = 'ag -g ""'
 " open new split panes to right and below
 set splitright
 set splitbelow
+set number
 
 " turn terminal to normal mode with escape
 tnoremap <Esc> <C-\><C-n>
