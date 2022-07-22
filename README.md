@@ -1,6 +1,7 @@
 # Tools / Configuration
 ## Apps installieren
 - brew
+- Vysor
 - Xcode
 - Visual Studio Code
 - DevCleaner
