@@ -3,6 +3,7 @@
 - brew
 - Vysor
 - Xcode
+- Transporter (for deploying iOS Apps faster)
 - Visual Studio Code
 - DevCleaner
 - IntelliJ
