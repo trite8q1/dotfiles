@@ -56,7 +56,6 @@
 - Test Adapter Converter
 - Test Explorer UI
 - YAML
-- Tabnine
 - GitHub Copilot
 - Error Lens
 - Thunder Client
