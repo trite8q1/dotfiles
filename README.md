@@ -1,6 +1,7 @@
 # Tools / Configuration
 ## Apps installieren
 - brew
+- brew install --cask mactex
 - Vysor
 - Xcode
 - Transporter (for deploying iOS Apps faster)
