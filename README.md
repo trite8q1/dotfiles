@@ -71,6 +71,20 @@
 - Unter *"editor.fontSize"* *"editor.fontFamily": "SourceCodePro-Bold"* einfuegen.
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
+### setup verified commits
+- follow this docs: https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+       - note: enter correct no-reply github email
+- run:
+```
+git config --global commit.gpgsign true
+```
+```
+git config --global user.signingkey GPG_SIGNING_KEY
+```
+```
+git config --global gpg.program /usr/local/bin/gpg
+```
+
 ### Configure Sourcetree
 - change project dir: in Preferences < General < Project folder to: `/Users/{username}/dev`
 
