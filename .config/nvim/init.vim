@@ -17,6 +17,9 @@ call plug#begin("~/.vim/plugged")
   " File Search
   Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
   Plug 'junegunn/fzf.vim'
+
+  " enable gpg plugin for verfied git commits
+  Plug 'gpg-agent'
 call plug#end()
 
 " Enable theming support
