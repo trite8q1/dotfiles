@@ -1,0 +1,18 @@
+[user]
+	name = nicomarksman
+	password = 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
+	email = nico.software.engineer@gmail.com
+	signingkey = GPG_SIGNING_KEY
+[core]
+	excludesfile = /Users/nico/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/nico/.stCommitMsg
+	gpgsign = true
+[gpg]
+	program = gpg
