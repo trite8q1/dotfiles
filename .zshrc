@@ -6,13 +6,14 @@ export PATH=/opt/homebrew/bin:$PATH
 export ZSH="/Users/nico/.oh-my-zsh"
 export DEFAULT_USER="nico"
 
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="agnoster"
 
-plugins=(git macos)
+plugins=(git macos gpg-agent)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -66,3 +67,5 @@ export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"
 eval "$(rbenv init - zsh)"
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
