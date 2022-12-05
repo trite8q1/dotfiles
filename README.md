@@ -1,4 +1,8 @@
 # Tools / Configuration
+## Fix netflix, prime video when it's only playing sound, but no video
+- turn "Use hardware acceleration when available" in Chrome settings off
+- https://support.displaylink.com/forums/287786-displaylink-feature-suggestions/suggestions/44346744-netflix-playing-sound-only-no-picture
+
 ## Apps installieren
 - brew
 - brew install basictex
