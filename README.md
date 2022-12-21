@@ -6,6 +6,9 @@
 ## reuse cmd to delete all local git branches
 alias gbr="git branch | grep -v "master" | xargs git branch -D"
 
+## install raycast and replace it with default spotlight search
+https://manual.raycast.com/hotkey#22d51aad070942b5ba7cb35e5e15ee66
+
 ## Apps installieren
 - brew
 - brew install basictex
