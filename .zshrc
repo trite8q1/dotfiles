@@ -66,6 +66,6 @@ function up() {
 export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"
 eval "$(rbenv init - zsh)"
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
-export PATH="$PATH:$HOME/.rvm/bin"
+export PATH=/usr/local/bin:$PATH
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
