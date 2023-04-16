@@ -31,7 +31,7 @@ https://manual.raycast.com/hotkey#22d51aad070942b5ba7cb35e5e15ee66
 git config --global commit.gpgsign true
 ```
 ```
-git config --global user.signingkey GPG_SIGNING_KEY
+git config --global user.signingkey <GPG_SIGNING_KEY>
 ```
 ```
 git config --global gpg.program /usr/local/bin/gpg
