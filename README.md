@@ -24,8 +24,8 @@ https://manual.raycast.com/hotkey#22d51aad070942b5ba7cb35e5e15ee66
 - https://stackoverflow.com/questions/49731986/is-it-possible-to-change-the-default-font-of-vs-code-editor-to-source-code-pro-f
 
 ### setup verified commits
-- follow this docs: https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
-       - note: enter correct no-reply github email
+- follow this docs: https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key <br>
+- note: enter correct no-reply github email
 - run:
 ```
 git config --global commit.gpgsign true
@@ -34,7 +34,7 @@ git config --global commit.gpgsign true
 git config --global user.signingkey <GPG_SIGNING_KEY>
 ```
 ```
-git config --global gpg.program /usr/local/bin/gpg
+git config --global gpg.program $(which gpg)
 ```
 
 ### Configure Sourcetree
