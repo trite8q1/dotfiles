@@ -36,6 +36,12 @@ git config --global user.signingkey <GPG_SIGNING_KEY>
 ```
 git config --global gpg.program $(which gpg)
 ```
+```
+git config --global user.name <Name>
+```
+```
+git config --global user.email <Email>
+```
 
 ### Configure Sourcetree
 - change project dir: in Preferences < General < Project folder to: `/Users/{username}/dev`
