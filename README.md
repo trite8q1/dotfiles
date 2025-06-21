@@ -1,13 +1,7 @@
 # Tools / Configuration
-## Fix netflix, prime video when it's only playing sound, but no video
-- turn "Use hardware acceleration when available" in Chrome settings off
-- https://support.displaylink.com/forums/287786-displaylink-feature-suggestions/suggestions/44346744-netflix-playing-sound-only-no-picture
 
 ## reuse cmd to delete all local git branches
 alias gbr="git branch | grep -v "master" | xargs git branch -D"
-
-## tool for creating react, nextjs etc. projects:
-https://vitejs.dev/
 
 ## install raycast and replace it with default spotlight search
 https://manual.raycast.com/hotkey#22d51aad070942b5ba7cb35e5e15ee66
